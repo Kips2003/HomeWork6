@@ -27,9 +27,6 @@
     display: flex;
     align-items: center;    
 }
-body{
-    height: 10000px;
-}
 .online-chat{
 
     height: 65px;
