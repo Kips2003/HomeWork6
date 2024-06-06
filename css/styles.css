@@ -272,3 +272,27 @@
     color: #7D7D7D;
 
 }
+.our-team{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    text-align: left;
+    color: #37393F;
+    margin-bottom: 16px;
+}
+.meet-our-experts{
+    font-family: 'Poppins';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.4px;
+    text-align: center;
+    color: #37393F;
+}
+.experts-title{
+    margin-bottom: 41px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
